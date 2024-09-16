@@ -1,4 +1,4 @@
-# TP_AySOAlumno: Franco Barbizan
+# TP_AySO
+Alumno: Franco Barbizan
 Division: 113
-Turno: Noche
-
+Turno: Mañana
