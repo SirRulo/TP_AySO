@@ -1,0 +1,64 @@
+ls
+vagrant halt
+vagrant ssh
+apt install vagrant
+ls
+cd ..
+ls
+cd vagrant
+ls 
+cd repogit
+ls
+halt
+ls
+ls -la
+cd ..
+ssh-keygen
+ls
+cd vagrant
+ssh-keygen
+y
+ssh-keygen
+ls
+ls -la
+cd .ssh
+ls
+ls -la
+cd ..
+ls
+cd repogit
+ls
+cd TP_AySO/
+ls
+git status
+apropos "dump traffic"
+apropos "dump traffic" > comando_dump_net
+ls
+tcpdump
+cat comando_dump_net
+ls
+apropos "network" > comando_dump_net
+apropos network > comando_dump_net
+apropos packet > comando_dump_net
+apropos capture > comando_dump_net
+sudo mandb
+apropos "dump traffic"
+tcpdump
+apropos "dump traffic" > comando_dump_net
+echo apropos "dump traffic" >> comando_dump_net
+cat comando_dump_net
+git status
+git add .
+git commit -m "ADD: Comando para Capturar y analizar el trafico de red"
+git status
+cat << FIN >> README.md
+Alumno: Franco Barbizan
+Division: 113
+Turno: Noche
+
+FIN
+
+git status
+git add .
+git commit -m "Datos Estudiante"
+history -a
